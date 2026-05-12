@@ -21,7 +21,7 @@ The final trained models, datasets, and interactive demo are hosted separately o
 
 - Dataset: https://huggingface.co/datasets/lensy111/relabelled-suicide-ideation
 - Demo: https://huggingface.co/spaces/lensy111/roberta_suicide_ideation_personality_nli
-
+- Best model: https://huggingface.co/lensy111/roberta_base_suicide_ideation_big5
 ---
 
 # Datasets
