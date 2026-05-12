@@ -147,8 +147,8 @@ NLI filtering was applied as a post-processing step to reduce false positives.
 
 Predicted suicidal posts were paired with supportive or awareness-oriented hypotheses such as:
 
-> “The author discusses suicide in general awareness or prevention, not personal suicidal thoughts.”
-> “The post shares support, resources, or hotlines, not the author's own suicidal intent.”
+> “The author discusses suicide in general awareness or prevention, not personal suicidal thoughts.”,
+> “The post shares support, resources, or hotlines, not the author's own suicidal intent.”,
 > “The author reflects to inspire or thank others, not describing current suicidal thoughts.”
 
 Entailment probabilities were computed using pretrained NLI models.
@@ -243,8 +243,3 @@ Potential future improvements include:
 - Evaluation on larger and more diverse datasets
 - Comparison with additional transformer architectures
 
----
-
-# Research Context
-
-This project was conducted as part of a Master of Artificial Intelligence research study at Universiti Malaya focused on improving reliability and intent-awareness in suicide ideation detection systems.
