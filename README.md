@@ -62,6 +62,8 @@ Source: https://zenodo.org/records/2667859
 
 # Methodology
 
+![methodology_framework](images/methodology.png)
+
 ## 1. Dataset Relabeling
 
 A semi-automated relabeling pipeline was developed to identify potentially mislabeled supportive posts.
@@ -199,6 +201,8 @@ Dataset relabeling significantly improved both classification performance and fa
 ---
 
 ## Impact of Personality Features and NLI
+
+![result image](images/result_chart.png)
 
 Best-performing configuration:
 
